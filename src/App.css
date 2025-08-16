@@ -377,7 +377,7 @@ header a {
   /* Section 1 */
   #section-1 {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1.5fr 0.5fr 0.5fr;
+    grid-template-rows: 1fr 1.8fr 0.5fr 0.5fr;
     height: auto;
     padding: 20px 0;
   }

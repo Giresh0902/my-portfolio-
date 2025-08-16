@@ -11,7 +11,7 @@ function Education() {
         <p>
           Maharaj Vijayaram Gajapathi Raj College of Engineering (Autonomous)<br />
           Branch: Information Technology<br />
-          CGPA: 8.04
+          CGPA: 8.00
         </p>
       </div>
 
