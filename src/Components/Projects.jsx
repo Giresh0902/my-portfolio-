@@ -37,6 +37,18 @@ function Projects() {
                 <strong>Polymorphism:</strong> Allowed flexibility in
                 transaction processing and interest calculation.
               </li>
+              <a
+                href="https://github.com/Giresh0902/BANK-MANAGEMENT-SYSTEM.git"
+                className="github-link"
+              >
+                <i class="fab fa-github fa-2x"></i>
+              </a>
+              <a
+                href="https://www.linkedin.com/posts/giresh-immidisetty-4b2101260_java-oop-bankingsystem-activity-7296410373446897664-50mS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAWVYYBsGkSzz6rUPd9KQLGlw4sL8nGlEg"
+                className="linkedin-link"
+              >
+                <i class="fab fa-linkedin fa-2x"></i>
+              </a>
             </ul>
           </div>
         </div>
@@ -61,6 +73,18 @@ function Projects() {
               <strong class="highlight">Technologies Used:</strong>
               EJS, CSS, Python, OpenCV, EasyOCR, Node.js, MongoDB
             </p>
+            <a
+                href="https://github.com/Giresh0902/BANK-MANAGEMENT-SYSTEM.git"
+                className="github-link"
+              >
+                <i class="fab fa-github fa-2x"></i>
+              </a>
+              <a
+                href="https://www.linkedin.com/posts/giresh-immidisetty-4b2101260_java-oop-bankingsystem-activity-7296410373446897664-50mS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAWVYYBsGkSzz6rUPd9KQLGlw4sL8nGlEg"
+                className="linkedin-link"
+              >
+                <i class="fab fa-linkedin fa-2x"></i>
+              </a>
           </div>
         </div>
       </section>

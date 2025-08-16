@@ -5,6 +5,7 @@ import coimg from "./assets/college.jpg";
 import Education from "./Components/education";
 import Skills from "./Components/Techni";
 import Projects from "./Components/Projects";
+import Contact from "./Components/Contactme";
 function App() {
   return (
     <>
@@ -37,6 +38,7 @@ function App() {
         <Skills/>
        </div>
        <Projects/>
+        <Contact/>
       </div>
     </>
   );

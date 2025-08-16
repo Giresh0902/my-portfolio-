@@ -7,7 +7,7 @@ html, body {
 }
 
 .innerbody {
-  margin: 3.5vw 3.5vw 0vw 3.5vw;
+  margin: 3.5vw 3.5vw 3.5vw 3.5vw;
   background-color: white;
 }
 
@@ -233,7 +233,7 @@ header a {
   margin-left: 2.5%;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr ;
 }
 
 #section-4 video {
@@ -271,7 +271,63 @@ header a {
   height: 600px;
   width: 100;
 }
+.github-link i {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  margin-top:20px ;
+}
 
+.github-link:hover i,
+.github-link:active i {
+  transform: translateY(-5px) scale(1.05);
+  filter: brightness(1.2);
+}
+
+.linkedin-link i {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  margin-top:20px ;
+  margin-left:20px ;
+}
+
+.linkedin-link:hover i,
+.linkedin-link:active i {
+  transform: translateY(-5px) scale(1.05);
+  filter: brightness(1.2);
+}
+.contact {
+  width: 95%;
+  height: 300px;
+  margin-left: 2.5%;
+  background-color: white;
+}
+.contact h1 {
+  font-size: 3.2em;
+  margin: 50px 0px 0px 70px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+.contact p{
+  font-size: 1em;
+  margin: 30px 0px 0px 70px;
+  font-weight: 500;
+  font-family: 'Raleway', sans-serif;
+}
+.contact p i{
+  margin-right: 10px;
+}
+.contact a{
+  margin-left:70px ;
+
+}
+.contact button{
+  background-color: #E8AC40;
+  font-size: 1.2em;
+  font-family: 'Raleway', sans-serif;
+  border: 2px solid white;
+  border-radius:10px ;
+  height: 50px;
+  width: 200px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
 
 @keyframes fadeInUp {
   to {
